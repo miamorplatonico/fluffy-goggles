@@ -1,0 +1,5 @@
+# Minimal requirements for a quick PythonAnywhere deploy
+# Adjust versions as needed for your environment.
+Django==5.2.7
+whitenoise==6.0.0
+Pillow==10.0.1
